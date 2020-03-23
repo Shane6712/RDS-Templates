@@ -16,3 +16,4 @@ Please note that the assets below are community supproted and best effort. They 
 * [Create an MSIX package from a desktop installer (MSI, EXE or App-V) on a VM](https://docs.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package-msi-vm) (Docs.Microsoft.com)
 * [Automatic MSIX App Attach script for WVD](https://blog.itprocloud.de/Automatic-MSIX-app-attach-scripts/) (blog) [Marcel Meurer]
  
+#### Add Stuff
