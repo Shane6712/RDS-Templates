@@ -1,4 +1,4 @@
-# ARM Templates for Remote Desktop Services
+# ARM Templates for Remote Desktop Services Forked from Azure
 
 This repository contains latest version of RDS deployment templates and DSC resources.
 
